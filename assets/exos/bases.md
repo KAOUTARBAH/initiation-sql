@@ -51,11 +51,11 @@ Créer la table suivante :
 
 Insérer les adresses suivantes :
 
-| city      | postCode | street                       | phone      | country         | addons |
-| --------- | -------- | ---------------------------- | ---------- | --------------- | ------ |
-| Paris     | 75001    | 24 avenues des champs élysée | 032145247  |                 |
-| Bordeaux  | 33300    | 19 rue de la prairie         | 0214525478 | Sonner à DUPONT |
-| Marseille | 13001    | 9 rue de la paix             | 0521254577 | Sonner à DOE    |
+| city      | postCode | street                       | phone      | country | addons          |
+| --------- | -------- | ---------------------------- | ---------- | ------- | --------------- |
+| Paris     | 75001    | 24 avenues des champs élysée | 032145247  | france  |
+| Bordeaux  | 33300    | 19 rue de la prairie         | 0214525478 | france  | Sonner à DUPONT |
+| Marseille | 13001    | 9 rue de la paix             | 0521254577 | france  | Sonner à DOE    |
 
 ## La table `shoes`
 
