@@ -7,4 +7,4 @@ Pour comprendre **SQL** il faut d'abord comprendre et savoir appréender une bas
 ## Le plan
 
 1. [La base de données et les SGBD](./assets/cours/bdd-sgbd.md)
-2. [PostGresSQL](./assets/cours/postgres.sql)
+2. [PostGresSQL](./assets/cours/postgres.md)
