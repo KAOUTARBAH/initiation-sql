@@ -8,3 +8,8 @@ Pour comprendre **SQL** il faut d'abord comprendre et savoir appréender une bas
 
 1. [La base de données et les SGBD](./assets/cours/bdd-sgbd.md)
 2. [PostGresSQL](./assets/cours/postgres.md)
+3. [Le SQL](./assets/cours/sql.md)
+
+## Entrainez-vous !
+
+- [Les base de SQL](./assets/exos/bases.md)
