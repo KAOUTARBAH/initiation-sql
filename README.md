@@ -13,3 +13,4 @@ Pour comprendre **SQL** il faut d'abord comprendre et savoir appréender une bas
 ## Entrainez-vous !
 
 - [Les base de SQL](./assets/exos/bases.md)
+-test
